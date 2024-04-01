@@ -45,7 +45,8 @@
   ],
   "release": {
     "branches": [
-      { "name": "main" }
+      { "name": "main" },
+      { "name": "v2.x.x", "channel": "2.x.x", "range": "2.x.x" }
     ]
   }
 }
